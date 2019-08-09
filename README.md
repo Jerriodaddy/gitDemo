@@ -5,3 +5,6 @@ A repository using to demo the operation of git.
 2. 新建远程分支
 3. commit & 回退版本
 4. merge分支
+
+add something2.
+
