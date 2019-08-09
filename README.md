@@ -6,4 +6,5 @@ A repository using to demo the operation of git.
 3. commit & 回退版本
 4. merge分支
 
-add something2.
+test1-local is writting.
+
